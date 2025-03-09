@@ -13,7 +13,7 @@ img {
   .ingbord {border-style: inset}
   body {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; background: linear-gradient(#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; margin-left: 30px}
   .bulp {background: linear-gradient(to right,#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; border-radius: 12px; padding: 5px}
-  .image {width: 10%; margin-bottom: 0%; position:absolute; top: 60px; right: 80px}
-  .cat {position:absolute; top: 35px; right: 210px}
+  .image {width: 10%; position:fixed; top: 180px; left: 0px}
+  .cat {position:fixed; top: 0px; right: 0px}
   .hptext {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; border-style: double; width: 19%; border-color: #8e808e60; border-radius: 12px; position:absolute; top: 60px; right: 300px}
-  .kitty {position:absolute; bottom: 0px; right: 0px}
+  .kitty {position:fixed; bottom: 0px; right: 0px}
