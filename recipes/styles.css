@@ -1,12 +1,14 @@
-h1 {color: #cf69a6; background-color:#753f6030; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center}
-h2 {color: #cf69a6; background-color:#753f6030; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center}
-h3 {color: #cf69a6; background-color:#753f6030; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center}
+h1 {color: #cf69a6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman';}
+h2 {color: #cf69a6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'}
+h3 {color: #cf69a6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'}
 strong {color: #cf69a6}
-.home {color: #cf69a6; text-align: center;}
+.home {color: #cf69a6; text-align: center; font-size: 20px; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Georgia'}
 .ing {text-align:left;}
 img {
     display: block;
     margin: auto;
-    width: 25%;
+    width: auto;
   }
-  .back {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: #cf69a6}
+  .back  {color: #cf69a6}
+  .ingbord {border-style: inset}
+  body {font-family: 'Courier New', Courier, monospace; font-size: 14px}
