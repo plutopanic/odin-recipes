@@ -1,0 +1,12 @@
+h1 {color: #cf69a6; background-color:#753f6030; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center}
+h2 {color: #cf69a6; background-color:#753f6030; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center}
+h3 {color: #cf69a6; background-color:#753f6030; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center}
+strong {color: #cf69a6}
+.home {color: #cf69a6; text-align: center;}
+.ing {text-align:left;}
+img {
+    display: block;
+    margin: auto;
+    width: 45%;
+  }
+  .back {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: #cf69a6}
