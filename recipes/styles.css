@@ -1,14 +1,15 @@
-h1 {color: #cf69a6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman';}
-h2 {color: #cf69a6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'}
-h3 {color: #cf69a6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'}
-strong {color: #cf69a6}
-.home {color: #cf69a6; text-align: center; font-size: 20px; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Georgia'}
-.ing {text-align:left;}
+h1 {color: #8e808e; background-image: url("starb.gif"); background-size: 20%; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman';}
+h2 {color: #d6c5d6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'; padding: 5px}
+h3 {color: #d6c5d6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'; padding: 5px}
+strong {color: black}
+.home {color: #d6c5d6; text-align: center; font-size: 20px; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Georgia';  background-image: url("starb.gif"); font-weight: 700}
+.ing {text-align:left; padding: 5px}
 img {
     display: block;
     margin: auto;
     width: auto;
   }
-  .back  {color: #cf69a6}
+  .back  {color: #756775}
   .ingbord {border-style: inset}
-  body {font-family: 'Courier New', Courier, monospace; font-size: 14px}
+  body {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; background: linear-gradient(#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed}
+  .bulp {background: linear-gradient(to right,#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; border-radius: 12px; padding: 5px}
