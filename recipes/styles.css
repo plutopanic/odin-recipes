@@ -11,5 +11,5 @@ img {
   }
   .back  {color: #756775}
   .ingbord {border-style: inset}
-  body {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; background: linear-gradient(#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed}
+  body {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; background: linear-gradient(#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; margin-left: 30px}
   .bulp {background: linear-gradient(to right,#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; border-radius: 12px; padding: 5px}
