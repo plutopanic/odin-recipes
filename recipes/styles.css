@@ -37,7 +37,7 @@ img {
     from{margin-left: 100%;}
     to{margin-left: 0%}
   }
-  .hptext {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; border-style: double; width: 19%; border-color: #8e808e60; border-radius: 12px; position:fixed; top: 60px; right: 150px; animation: colors; animation-duration: 6s; animation-iteration-count: infinite;}
+  .hptext {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; border-style: double; width: 19%; border-color: #8e808e60; border-radius: 12px; position:fixed; top: 60px; right: 150px; padding: 5px; animation: colors; animation-duration: 6s; animation-iteration-count: infinite;}
   @keyframes colors{
     20%{background-color: red;}
     40%{background-color: orange;}
@@ -46,5 +46,6 @@ img {
     100%{background-color: blue;}
   }
   .step {padding-left: 30px}
+
 
 
