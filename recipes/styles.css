@@ -20,9 +20,9 @@ img {
   }
   .back  {color: #756775}
   .ingbord {border-style: inset;}
-  body {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; background: linear-gradient(#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; margin-left: 30px}
+  body {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; background: linear-gradient(#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; margin-left: 30px; margin-bottom: 0px}
   .bulp {background: linear-gradient(to right,#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; border-radius: 12px; padding: 5px; padding-left: 20px}
-  .image {width: 10%; position:fixed; top: 180px; left: 0px}
+  .image {width: 10%; position:fixed; top: 180px; left: 0px; scale: 60%}
   .cat {position:fixed; top: 0px; right: 0px}
   .kitty {position:fixed; bottom: 0px; right: 0px;}
   a:link{color:#f5e4f5}
@@ -46,6 +46,7 @@ img {
     100%{background-color: blue;}
   }
   .step {padding-left: 30px}
+  .link a {margin-left: 190px; position:fixed; top: 80px}
 
 
 
