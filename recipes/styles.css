@@ -1,8 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
 
 h2 {color: #d6c5d6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'; padding: 5px}
 h3 {color: #d6c5d6; background-color:#753f6030; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'; padding: 5px}
 strong {color: black}
-.home {color: #d6c5d6; font-size: 20px; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Georgia';  background-image: url("starb.gif"); font-weight: 700; width: 12%; text-shadow: 0px 0px 2px #6a616a; padding: 20px}
+.home {color: #d6c5d6; font-size: 20px; border-style: dotted; border-color: #57494330; border-radius: 12px; font-family: 'Georgia';  background-image: url("starb.gif"); font-weight: 700; width: 12%; text-shadow: 0px 0px 2px #6a616a; padding: 20px}
 .ing {text-align:left; padding: 5px;}
 img {
     display: block;
@@ -10,19 +19,20 @@ img {
     width: auto;
   }
   .back  {color: #756775}
-  .ingbord {border-style: inset}
+  .ingbord {border-style: inset;}
   body {font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 550; background: linear-gradient(#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; margin-left: 30px}
-  .bulp {background: linear-gradient(to right,#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; border-radius: 12px; padding: 5px}
+  .bulp {background: linear-gradient(to right,#f5e4f5, #998f8b); background-repeat: no-repeat; background-attachment: fixed; border-radius: 12px; padding: 5px; padding-left: 20px}
   .image {width: 10%; position:fixed; top: 180px; left: 0px}
   .cat {position:fixed; top: 0px; right: 0px}
   .kitty {position:fixed; bottom: 0px; right: 0px;}
   a:link{color:#f5e4f5}
   a:visited{color:#756775}
   a:hover{color:#8e808e}
-  h1 {color: #8e808e; background-image: url("starb.gif"); background-size: 20%; text-align: center; border-style: inset; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'; text-shadow: 0px 0px 3px #6a616a;
+  h1 {color: #8e808e; background-image: url("starb.gif"); background-size: 20%; text-align: center; border-style: dotted; border-color: #57494330; border-radius: 12px; font-family: 'Times New Roman'; text-shadow: 0px 0px 3px #6a616a; padding: 5px;
     animation: slidein;
     animation-timing-function: ease-out;
-    animation-duration: 5s;}
+    animation-duration: 5s;
+  }
   @keyframes slidein{
     from{margin-left: 100%;}
     to{margin-left: 0%}
@@ -35,6 +45,6 @@ img {
     80%{background-color: green;}
     100%{background-color: blue;}
   }
-
+  .step {padding-left: 30px}
 
 
